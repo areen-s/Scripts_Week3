@@ -5,7 +5,7 @@
 - `touch filename.txt` will create file
 - `pwd` - print working directory - or - "where am I?"
 - `ls` - list directory contents
-- `ls -l` - long list
+- `ls -l` - long list (searches names of files. do not confuse this with grep)
     - Everything has three types of permissions
         - Read
         - Write
